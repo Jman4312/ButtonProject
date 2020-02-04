@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ButtonProject</string>
+    <string name="name_hint">name</string>
+    <string name="color_hint">color</string>
+    <string name="click_button">change color and background</string>
+    <string name="reset_button">reset</string>
+    <string name="Greeting">Hello </string>
+    <string name="Hello_World">Hello World!</string>
+</resources>
